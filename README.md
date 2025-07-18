@@ -7,6 +7,7 @@ This project implements a brain tumor classifier using a pretrained ResNet-18 mo
 ## Dataset
 
 We use the **Brain Tumor Classification (MRI)** dataset by Ghaffar et al., available for free (no login required) on [Mendeley Data](https://data.mendeley.com/datasets/w4sw3s9f59/1):
+![Sample Brain Tumor MRI](Figure_1.png)
 
  Contains: `Training/` and `Testing/` folders with subdirectories:
   - `glioma_tumor/`
